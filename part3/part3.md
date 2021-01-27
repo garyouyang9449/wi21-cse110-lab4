@@ -1,0 +1,1 @@
+'document.getElementById("num1").value' returns a string. So, I type converted to a number.
